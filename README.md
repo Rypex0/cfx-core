@@ -1,2 +1,2 @@
-# cfx-network
-FiveM Script
+# cfx-core
+FiveM Core
