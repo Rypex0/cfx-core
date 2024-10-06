@@ -1,0 +1,2 @@
+# cfx-network
+FiveM Script
